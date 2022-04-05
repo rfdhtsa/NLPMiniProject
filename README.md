@@ -1,0 +1,2 @@
+# NLPMiniProject
+Kelompok 7
